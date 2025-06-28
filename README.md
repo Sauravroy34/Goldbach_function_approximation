@@ -3,6 +3,7 @@ Goldbach's conjecture is one of the oldest unsolved problems in mathematics. It 
 
 ### deep learing technqiues 
 ![Neural_networks](https://github.com/user-attachments/assets/a78d425c-6449-4678-ab96-a74d281fa499)
+
 A simple Artificial Neural Network (ANN) was used to predict the number of prime pairs for even numbers. The model achieved an accuracy of about 13%. This shows that neural networks can be applied to this problem, but further improvements are needed for better results.
 
 ### Polynomial fit
