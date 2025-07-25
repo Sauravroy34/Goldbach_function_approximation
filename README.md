@@ -1,10 +1,13 @@
 ## Approximating the Goldbach Function with Machine Learning
 Goldbach's conjecture is one of the oldest unsolved problems in mathematics. It states that every even number greater than 2 can be written as the sum of two prime numbers. The Goldbach function counts how many pairs of primes can form a given even number. While mathematicians like Hardy and Littlewood have made estimates for this function, machine learning approaches have been less explored. This project uses two machine learning methods to approximate the Goldbach function: a neural network and polynomial fitting.
 
-### deep learing technqiues 
+### deep learning techniques 
 ![Neural_networks](https://github.com/user-attachments/assets/a78d425c-6449-4678-ab96-a74d281fa499)
 
 A simple Artificial Neural Network (ANN) was used to predict the number of prime pairs for even numbers. The model achieved an accuracy of about 13%. This shows that neural networks can be applied to this problem, but further improvements are needed for better results.
+### Neural Network with 200 epochs
+
+<img width="584" height="413" alt="200_epochs" src="https://github.com/user-attachments/assets/83ae1d25-36e7-4824-b7b3-fb827a26da93" />
 
 ### Polynomial fit
 ![ploynomial_fit](https://github.com/user-attachments/assets/516f9ecb-f664-4de4-84dd-dbb770bbfa98)
